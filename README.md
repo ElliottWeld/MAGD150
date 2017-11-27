@@ -1,2 +1,2 @@
 # MAGD150
-hi
+A collection of projects and text from MAGD 150 
